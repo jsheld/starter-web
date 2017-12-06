@@ -4,6 +4,7 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
+    Jonathan Held jsheld@git.training @jsheld
 
 # THANKS
 
