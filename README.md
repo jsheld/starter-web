@@ -11,3 +11,6 @@ I modified this file again. Let's see what happens.
 
 <strong>Hello there. Welcome to my repository</strong>
 
+### Copyright
+
+(c) 2017 Git.training
