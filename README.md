@@ -13,4 +13,4 @@ I modified this file again. Let's see what happens.
 
 ### Copyright
 
-(c) 2017 Git.training
+(c) 2017 Git.training resources
